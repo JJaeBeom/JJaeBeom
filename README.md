@@ -1,7 +1,7 @@
 # 자기소개
 
-## 안녕하세요 정재범입니다.
+## 정재범
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeBeom=contribs,prs)
 
 
