@@ -1,7 +1,3 @@
-# 자기소개
+# JB
 
-## 정재범
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJaeBeom=contribs,prs)
-
-
+github-readme-stats.vercel.app/api?username=JJaeBeom&show_icons=true&theme=dark
